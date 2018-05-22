@@ -1,2 +1,2 @@
 # Raspberry-Tablet
-A full functional tablet on the basis of the Raspberry Pi. 
+A fully functional tablet on the basis of the Raspberry Pi. 
